@@ -1,0 +1,23 @@
+.taillebutton{
+
+    width: 100%;
+    height: 5rem;
+
+}
+
+
+.taille{
+  font-size: 0.9rem;
+}
+
+.moncentre{
+    text-align: center;
+    border: 12px;
+}
+
+.taille3{
+    
+    height: 25rem;
+    width: 25rem;
+    
+}
